@@ -19,35 +19,9 @@
 
 ---
 
-## 📊 Stats GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=akaan47&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaan47&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akaan47&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Activité récente
-
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=akaan47&bg_color=0d1117&color=00ffea&line=00ffe2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-
 ## ✨
 
 ![Profile views](https://komarev.com/ghpvc/?username=akaan47&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/akaan47?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/akaan47?style=social)
 
----
-
-## 📫 Contact 
-
-discord.gg/soulbot
