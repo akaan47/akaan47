@@ -1,7 +1,7 @@
-<h1 align="center">Salut, moi c'est akaan47 👋</h1>
+<h1 align="center">Kaan</h1>
 
 <p align="center">
-  Passionné de code et de projets fullstack 🔐⚙️
+  Passionné de code et de projets fullstack
 </p>
 
 ---
